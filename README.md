@@ -1,3 +1,14 @@
+# Overview
+Simple app to create flash cards for studying! I was following in this training program: [Functional Programming for Beginners with JavaScript](https://www.knowthen.com/functional-programming-for-beginners-with-javascript), provided by [KnowThen](https://www.knowthen.com/) all credit goes to [James Moore](https://github.com/knowthen) for the inspiration.
+
+<img src="/docs/assets/images/in-action.gif" />
+
+Try it out here: https://flashcard-study-c312a.web.app
+
+The app allows you to add, edit, rate, and delete flash cards. The ratings sort cards automatically based on how well you answered the question prioritizing the cards based on which areas you need to work on. Enjoy!
+
+# Running
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
